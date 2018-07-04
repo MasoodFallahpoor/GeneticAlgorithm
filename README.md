@@ -1,0 +1,3 @@
+In computer science and operations research, a Genetic Algorithm (GA) is a metaheuristic inspired by the process of natural selection that belongs to the larger class of Evolutionary Algorithms (EA). Genetic algorithms are commonly used to generate high-quality solutions to optimization and search problems by relying on bio-inspired operators such as mutation, crossover and selection ([Wikipedia](https://en.wikipedia.org/wiki/Genetic_algorithm "Wikipedia")).
+
+This repository contains the source code of a Genetic Algorithm that tries to find the sequence [0, 1, 2, 3, 4, 5, 6, 7, 8, 9] as the solution to a hypothetical problem. When algorithm finishes its execution either the solution is found or a sub-optimal solution (like [0, 2, 2, 3, 4, 9, 6, 7, 3, 9]) is found.
